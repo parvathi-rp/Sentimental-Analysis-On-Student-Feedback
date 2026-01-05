@@ -4,3 +4,4 @@ An application that analyses sentimental behaviour based on student feedback.
 - [Parvathi R P] (https://github.com/parvathi-rp)
 - [Sadiya Mariyam] (https://github.com/sadiya-mariyam)
 - [Safiya T] (https://github.com/safiya-2007)
+- [Ninaja R] (https://github.com/Ninaja-7808)
